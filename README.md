@@ -1,4 +1,8 @@
-简体中文
+[简体中文](##海内存知己天涯若比邻)
+[English](##a-bosom-friend-afar-brings-a-distant-land-near)
+
+---
+
 ## 海内存知己，天涯若比邻。
 
 # 你好呀！👋
@@ -43,11 +47,7 @@ Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇ 50%
 HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%  
 Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%  
 
-
 ---
-
-
-English
 
 ## A bosom friend afar brings a distant land near.
 
