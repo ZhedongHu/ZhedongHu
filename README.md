@@ -42,10 +42,10 @@
 ---
 
 ## 我会各种编程语言！
-中文      ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%  
-Scratch  ▇▇▇▇▇▇▇▇▇▇ 100%  
+中文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%  
+Scratch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇ 100%  
 Markdown ▇▇▇▇▇▇▇▇▇▇ 100%  
-C        ▇▇▇▇▇▇▇ 70%  
-Python   ▇▇▇▇▇ 50%  
-HTML     ▇▇▇▇ 40%  
-Kotlin   ▇▇▇▇ 40%  
+C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇ 70%  
+Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇ 50%  
+HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%  
+Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%  
