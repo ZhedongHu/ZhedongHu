@@ -1,5 +1,5 @@
 [简体中文](##海内存知己天涯若比邻)
-[English](##a-bosom-friend-afar-brings-a-distant-land-near)
+[English](##a-bosom-friend-afar-brings-a-distant-land-near.)
 
 ---
 
