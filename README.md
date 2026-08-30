@@ -9,7 +9,7 @@
 幸会！终于等到你！欢迎来到我的GitHub。😜
 我叫胡哲栋，是一个来自宇宙太阳系地月系地球亚洲中国浙江省杭州市的初中生。
 
-## 个人信息🪪（*有待考证，仅供参考*）
+## 个人信息🪪
 - **姓名🆔**：胡哲栋
 - **性别🚹**：男♂
 - **生日📅**：A+B+C+D年E+F月G+H日  
@@ -21,7 +21,7 @@
   5. D=13
   6. F是圆周率小数点后第5位
   7. G+H保密
-- **学校🏫**：加载失败（暂时保密）
+- **学校🏫**：杭州师范大学东城中学
 - **座右铭💬**：变化是唯一的永恒
 
 ## 我的爱好💕
@@ -29,10 +29,7 @@
   2. 🖌绘画
   3. 📚阅读
   4. 🖋书法
-  5. 📝写作业
-  6. 💯考试
-  7. 📄写作文
-  8. 💭思考
+  5. 📝写作
 
 ## 我的特长🏆
 你都在GitHub上看到我了，我的最大的特长当然是**编程**🥳  
@@ -55,7 +52,7 @@ Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 4
 Nice to meet you! Finally got you! Welcome to my GitHub. 😜  
 My name is Zhedong Hu（Zhedong is my first name,Hu is my last name), and I am a junior high school student from Hangzhou, Zhejiang, China, Asia, Earth, in the Solar System, Universe.
 
-## Personal Info 🪪 (*To be verified, for reference only*)
+## Personal Info
 - **Name 🆔**: Zhedong Hu
 - **Gender 🚹**: Male ♂
 - **Birthday 📅**: A+B+C+D year E+F+G+H day  
@@ -67,7 +64,7 @@ My name is Zhedong Hu（Zhedong is my first name,Hu is my last name), and I am a
   5. D = 13
   6. F is the 5th digit after the decimal point of π
   7. G+H is confidential
-- **School 🏫**: Loading failed (temporarily undisclosed)
+- **School 🏫**: Hangzhou Dongcheng Middle  School.
 - **Motto 💬**: Change is the only constant
 
 ## My Hobbies 💕
@@ -75,10 +72,7 @@ My name is Zhedong Hu（Zhedong is my first name,Hu is my last name), and I am a
   2. 🖌 Drawing
   3. 📚 Reading
   4. 🖋 Calligraphy
-  5. 📝 Doing homework
-  6. 💯 Taking exams
-  7. 📄 Writing essays
-  8. 💭 Thinking
+  5. 📄 Writing essays
 
 ## My Specialties 🏆
 Since you've seen me on GitHub, my biggest specialty is, of course, **programming** 🥳  
