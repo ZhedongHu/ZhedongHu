@@ -36,7 +36,7 @@
 我的绘画水平也不错。🥰
 
 ## 我会各种编程语言！
-中文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%  
+中文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%（用于AI提示词）  
 Scratch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇ 100%  
 Markdown ▇▇▇▇▇▇▇▇▇▇ 100%  
 C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇ 70%  
@@ -79,7 +79,7 @@ Since you've seen me on GitHub, my biggest specialty is, of course, **programmin
 My drawing skills are not bad either. 🥰
 
 ## I can use many programming languages.
-中文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%  
+中文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 200%(This is natural language for AI prompts) 
 Scratch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇▇▇▇ 100%  
 Markdown ▇▇▇▇▇▇▇▇▇▇ 100%  
 C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇▇▇▇ 70%  
