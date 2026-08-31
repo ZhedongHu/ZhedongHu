@@ -8,7 +8,7 @@
 # 你好呀！👋
 幸会！终于等到你！欢迎来到我的GitHub。😜
 我叫胡哲栋，是一个来自宇宙太阳系地月系地球亚洲中国浙江省杭州市的初中生。
-除了这个README，你还可以在我的[个人主页](https://zhedonghu.github.io)（https://zhedonghu.github.io） 找到我。
+除了这个README，你还可以在我的[个人主页](https://zhedonghu.github.io)（https://zhedonghu.github.io ） 找到我。
 
 ## 个人信息🪪
 - **姓名🆔**：胡哲栋
