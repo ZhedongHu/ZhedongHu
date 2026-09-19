@@ -2,7 +2,7 @@
 [English](#a-bosom-friend-afar-brings-a-distant-land-near)
 
 ---
-
+> 现在处于学期中间，所以我的GitHub活跃程度可能不如假期。
 ## 海内存知己，天涯若比邻。
 
 # 你好呀！👋
@@ -46,7 +46,7 @@ HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%
 Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▇▇▇▇ 40%  
 
 ---
-
+> It's mid-semester, so I might not be as active on GitHub as I was during the holidays.
 ## A bosom friend afar brings a distant land near.
 
 # Hello there! 👋  
